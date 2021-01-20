@@ -27,4 +27,8 @@ public class I extends C {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public Object pp() {
+        return this;
+    }
 }

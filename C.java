@@ -35,4 +35,8 @@ public class C implements J {
     public int af() {
         return -1;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
