@@ -12,6 +12,10 @@ public class I extends C {
         return 39;
     }
 
+    public Object pp() {
+        return this;
+    }
+
     public long ac() {
         return 333;
     }
@@ -28,11 +32,19 @@ public class I extends C {
         return new java.util.Random().nextInt();
     }
 
-    public Object pp() {
-        return this;
-    }
-
     public double ee() {
         return 100.500;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
     }
 }
