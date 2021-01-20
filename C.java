@@ -31,4 +31,8 @@ public class C implements J {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public int af() {
+        return -1;
+    }
 }
