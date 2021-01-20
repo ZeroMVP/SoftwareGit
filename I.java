@@ -47,4 +47,8 @@ public class I extends C {
     public Object gg() {
         return return getClass().getClassLoader();
     }
+
+    public long dd() {
+        return 99999;
+    }
 }

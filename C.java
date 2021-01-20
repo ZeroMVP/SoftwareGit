@@ -55,4 +55,8 @@ public class C extends null implements J {
     public int[] ii() {
         return new int[]{0, 1, 2, 3, 4};
     }
+
+    public double ee() {
+        return 0.000001;
+    }
 }
