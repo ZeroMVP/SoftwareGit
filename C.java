@@ -27,4 +27,8 @@ public class C implements J {
     public double ad() {
         return 9.11;
     }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
 }
