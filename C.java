@@ -23,4 +23,8 @@ public class C implements J {
     public int cc() {
         return 39;
     }
+
+    public double ad() {
+        return 9.11;
+    }
 }

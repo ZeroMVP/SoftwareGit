@@ -15,4 +15,8 @@ public class I extends C {
     public long ac() {
         return 333;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }
