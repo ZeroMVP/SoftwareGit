@@ -31,4 +31,8 @@ public class I extends C {
     public Object pp() {
         return this;
     }
+
+    public double ee() {
+        return 100.500;
+    }
 }

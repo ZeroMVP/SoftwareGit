@@ -1,4 +1,4 @@
-public class C implements J {
+public class C extends null implements J {
 
     private int j = 1;
 
@@ -38,5 +38,9 @@ public class C implements J {
 
     public java.lang.Class qq() {
         return getClass();
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
     }
 }
