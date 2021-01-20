@@ -11,4 +11,8 @@ public class I extends C {
     public int cc() {
         return 39;
     }
+
+    public long ac() {
+        return 333;
+    }
 }
