@@ -19,8 +19,4 @@ public class C implements J {
     public Object rr() {
         return null;
     }
-
-    public int cc() {
-        return 39;
-    }
 }
